@@ -38,6 +38,10 @@ nav button{
     cursor: pointer;
     margin-left: 10px;
 }
+nav button a{
+    color: #fff;
+    text-decoration: none;
+}
 .language-btn{
     display:inline-flex;
     background: transparent;
